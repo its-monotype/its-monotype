@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer and Designer
 ----------------------
 
-🧠💻🚀 I'm a huge fan of bringing new ideas to life by creating startups and experimenting with different technologies. My passion lies in UI/UX design and web development 🎨🖥, but I also love diving into the backend and exploring the world of artificial intelligence and Python 🤖🐍. I'm constantly learning new skills and techniques to improve my craft and bring my ideas to fruition. 🚀🤩
+🧠👨‍💻🚀 I'm a huge fan of bringing new ideas to life by creating startups and experimenting with different technologies. My passion lies in UI/UX design and web development 🎨📃, but I also love diving into the backend and exploring the world of artificial intelligence and Python 🤖🐍. I'm constantly learning new skills and techniques to improve my craft and bring my ideas to fruition. 🚀🤩
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [its.monotype@gmail.com](mailto:its.monotype@gmail.com)
