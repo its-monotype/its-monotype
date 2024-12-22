@@ -2,9 +2,7 @@
 
 I'm a **Frontend Developer** passionate about crafting beautiful and user-friendly interfaces. I enjoy designing and coding to bring ideas to life.
 
-Core stack: JS & TS, **React**, Next.js, Tailwind CSS
-
-For personal projects, I use NestJS and Python when needed, but my true passion is frontend development - l'd rather leave backend work to the experts in a team setting.
+💻 **Core stack:** JS & TS, **React**, Next.js, Tailwind CSS
 
 I'm currently exploring Rust and Tauri to build blazing-fast cross-platform apps.
 
