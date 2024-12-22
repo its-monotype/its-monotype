@@ -1,5 +1,12 @@
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-💻 Core Stack: **JS/React**, Next.js, NestJS, Python. Mainly focused on Frontend & UI/UX.
+I'm a **Frontend Developer** passionate about crafting beautiful and user-friendly interfaces. I enjoy both designing and codding to bring ideas to life.
+
+Core stack: JS&TS, **React**, Next.js, Tailwind CSS
+
+For personal projects, I prefer NestJS and Python when needed, but my true passion is frontend development - l prefer leaving backend work to the experts in a team setting.
+
+I'm currently exploring Rust and Tauri to build blazing-fast cross-platform apps.
+
 
 ![dyno](https://github.com/its-monotype/its-monotype/assets/79363260/54b6157b-97b7-4092-9d35-f85be3d266b7)
