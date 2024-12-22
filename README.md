@@ -1,8 +1,8 @@
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a Frontend Developer passionate about crafting beautiful and user-friendly interfaces. I enjoy designing and coding to bring ideas to life.
+I'm a **Frontend Developer** passionate about crafting beautiful and user-friendly interfaces. I enjoy designing and coding to bring ideas to life.
 
-Core stack: JS & TS, React, Next.js, Tailwind CSS
+Core stack: JS & TS, **React**, Next.js, Tailwind CSS
 
 For personal projects, I use NestJS and Python when needed, but my true passion is frontend development - l'd rather leave backend work to the experts in a team setting.
 
