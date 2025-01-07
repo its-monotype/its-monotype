@@ -4,7 +4,7 @@ I'm a **Frontend Developer** passionate about crafting beautiful and user-friend
 
 💻 **Core stack:** JS & TS, **React**, Next.js, Tailwind CSS
 
-📚 I'm currently exploring Rust and Tauri to build blazing-fast cross-platform apps.
+📚 I'm currently exploring Rust and Tauri to build modern cross-platform apps.
 
 
 ![dyno](https://github.com/its-monotype/its-monotype/assets/79363260/54b6157b-97b7-4092-9d35-f85be3d266b7)
