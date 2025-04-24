@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm a **Frontend Developer** passionate about crafting beautiful and user-friendly interfaces. I enjoy designing and coding to bring ideas to life.
+I'm a **Frontend Developer** passionate about crafting beautiful, user-friendly interfaces. I enjoy designing and coding to bring ideas to life.
 
 💻 **Core stack:** JS & TS, **React**, Next.js, Tailwind CSS
 
