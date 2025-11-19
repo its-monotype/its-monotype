@@ -8,5 +8,6 @@ I'm a Frontend Engineer with a strong UI/UX background. I enjoy designing and bu
 
 🌱 Also getting curious about Svelte
 
+📫 Reach out: its.monotype@gmail.com
 
 ![dyno](https://github.com/its-monotype/its-monotype/assets/79363260/54b6157b-97b7-4092-9d35-f85be3d266b7)
