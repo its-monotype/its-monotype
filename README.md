@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pavlo
 
-I'm a Frontend Engineer with a strong UI/UX background. I enjoy designing and building clean, user-friendly apps.
+I'm a Frontend Engineer with a strong UI/UX background. I enjoy designing and building clean, user-friendly applications.
 
 💻 I work primarily with TypeScript, React, Next.js, Tailwind CSS, and related technologies
 
