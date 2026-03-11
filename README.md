@@ -4,7 +4,9 @@ I'm a Frontend Engineer with a UI/UX background. I enjoy designing and building 
 
 💻 I work primarily with TypeScript, React, Next.js, Tailwind CSS, and related technologies
 
-📚 Currently exploring Rust and Tauri to build modern cross-platform apps
+🦀 Also enjoy building desktop apps and automation tools with Rust, Tauri, and Python
+
+⚡ Currently building [JobZap](https://github.com/its-monotype/jobzap) - a browser extension to declutter your LinkedIn job search
 
 🌱 Also getting curious about Svelte
 
