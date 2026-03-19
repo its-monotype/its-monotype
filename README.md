@@ -1,14 +1,12 @@
 # Hi there 👋 I'm Pavlo
 
-I'm a Frontend Engineer with a UI/UX background. I enjoy designing and building clean, user-friendly applications.
+I'm a frontend-focused software engineer who enjoys building clean, user-friendly products.
 
 💻 I work primarily with TypeScript, React, Next.js, Tailwind CSS, and related technologies
 
-🦀 Also enjoy building desktop apps and automation tools with Rust, Tauri, and Python
+🦀 I also build desktop apps and automation tools with Rust, Tauri, and Python
 
-⚡ Currently building [JobZap](https://github.com/its-monotype/jobzap) - a browser extension to declutter your LinkedIn job search
-
-🌱 Also getting curious about Svelte
+🧑‍💻 Currently building [JobZap](https://github.com/its-monotype/jobzap) - a browser extension to declutter your LinkedIn job search
 
 📫 Reach out: its.monotype@gmail.com
 
