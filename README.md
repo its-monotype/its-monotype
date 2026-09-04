@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pavlo
 
-I'm a software engineer who enjoys building clean, user-friendly products.
+I'm a frontend engineer who enjoys building clean, user-friendly products.
 
 💻 I work primarily with TypeScript, React, Next.js, Tailwind CSS, and related technologies
 
